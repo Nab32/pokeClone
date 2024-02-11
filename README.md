@@ -9,7 +9,7 @@ Currently only works on MacOS. To be able to compile the project, you will need 
 
 # Features
 This game engine is currently a work in progress. These are the available features.
-* **Animations**: Really easy to implement animations with the animation and assets class.
+* ***Animations***: Really easy to implement animations with the animation and assets class.
 * **Movement**: The player movement has been implemented and works perfectly.
 * **Dialogue and basic interactions**: The interaction system is fully implemented and scalable.
 * **Pokemon battle (TODO)**: A way for the player to engage in pokemon battle in the wild or against other trainers.

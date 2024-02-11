@@ -21,7 +21,7 @@ This game engine is currently a work in progress. These are the available featur
 
 <img width="1512" alt="Screenshot 2024-02-11 at 3 17 14 PM" src="https://github.com/Nab32/pokeClone/assets/90017423/daf44ad1-42b2-4052-9f28-6e831b9ee79d">
 
-## Disclaimer
+# Disclaimer
 
 This project is a personal development exercise and is not affiliated with, sponsored, or endorsed by Nintendo. "Pokémon" and all related characters, assets, and trademarks are property of Nintendo Co., Ltd. This project is intended for educational purposes only and is not licensed for commercial use. All Nintendo assets used herein are property of their respective owners and are used under the principles of "fair use" for educational and demonstration purposes only.
 

@@ -9,12 +9,12 @@ Currently only works on MacOS. To be able to compile the project, you will need 
 
 # Features
 This game engine is currently a work in progress. These are the available features.
-* ***Animations***: Really easy to implement animations with the animation and assets class.
+* **Animations**: Really easy to implement animations with the animation and assets class.
 * **Movement**: The player movement has been implemented and works perfectly.
 * **Dialogue and basic interactions**: The interaction system is fully implemented and scalable.
-* **Pokemon battle (TODO)**: A way for the player to engage in pokemon battle in the wild or against other trainers.
-* **Scene swapping (TODO)**: A system that will let players change scenes depending on where they are.
-* **First gym** (TODO)**: Implementing the first gym in Pokemon Emerald.
+* ***Pokemon battle (TODO)***: A way for the player to engage in pokemon battle in the wild or against other trainers.
+* ***Scene swapping (TODO)***: A system that will let players change scenes depending on where they are.
+* ***First gym*** (TODO)**: Implementing the first gym in Pokemon Emerald.
 
 # Images
 <img width="1512" alt="Screenshot 2024-02-11 at 3 17 07 PM" src="https://github.com/Nab32/pokeClone/assets/90017423/839d4d5f-3527-4d05-8361-c1400f1f5e63">
